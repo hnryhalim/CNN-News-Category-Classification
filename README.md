@@ -18,6 +18,6 @@ I want to create machine learning that automatically classifies news categories 
 - **Machine Learning:** Developed predictive models using machine learning algorithms.
 - **Data Visualization:** Visualized insights using charts and graphs for better comprehension.
 ## Repository Structure
-- `CNN_Articels.xlsx/`: Contains the raw datasets.
+- `CNN_Articels.csv/`: Contains the raw datasets.
 - `CNN News Category Classification Final Project (Revisi)/`: Result on portofolio.
 - `Henry Halim Oktakusuma - Progress Script Final Project.ipynb/`: Python source code for the project.
